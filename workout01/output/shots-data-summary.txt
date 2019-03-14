@@ -1,0 +1,21 @@
+  team_name          game_date             season         period      minutes_remaining seconds_remaining shot_made_flag    
+ Length:5554        Length:5554        Min.   :2016   Min.   :1.000   Min.   : 0.000    Min.   : 0.00     Length:5554       
+ Class :character   Class :character   1st Qu.:2016   1st Qu.:1.000   1st Qu.: 3.000    1st Qu.:14.00     Class :character  
+ Mode  :character   Mode  :character   Median :2016   Median :2.000   Median : 6.000    Median :29.00     Mode  :character  
+                                       Mean   :2016   Mean   :2.355   Mean   : 5.654    Mean   :28.73                       
+                                       3rd Qu.:2016   3rd Qu.:3.000   3rd Qu.: 9.000    3rd Qu.:44.00                       
+                                       Max.   :2016   Max.   :4.000   Max.   :11.000    Max.   :59.00                       
+ action_type         shot_type         shot_distance     opponent               x                 y             minute     
+ Length:5554        Length:5554        Min.   : 0.00   Length:5554        Min.   :-248.00   Min.   :-39.0   Min.   : 1.00  
+ Class :character   Class :character   1st Qu.: 4.00   Class :character   1st Qu.: -60.00   1st Qu.: 13.0   1st Qu.:11.00  
+ Mode  :character   Mode  :character   Median :19.00   Mode  :character   Median :   2.00   Median : 97.0   Median :23.00  
+                                       Mean   :15.93                      Mean   :  11.51   Mean   :108.7   Mean   :22.61  
+                                       3rd Qu.:25.00                      3rd Qu.: 107.00   3rd Qu.:193.0   3rd Qu.:33.00  
+                                       Max.   :71.00                      Max.   : 246.00   Max.   :717.0   Max.   :48.00  
+     name          
+ Length:5554       
+ Class :character  
+ Mode  :character  
+                   
+                   
+                   

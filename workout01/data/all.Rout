@@ -1,0 +1,10 @@
+
+sink> sink(zz, type = "message")
+
+sink> try(log("a"))
+Error in log("a") : non-numeric argument to mathematical function
+
+sink> ## revert output back to the console -- only then access the file!
+sink> sink(type = "message")
+
+sink> sink()

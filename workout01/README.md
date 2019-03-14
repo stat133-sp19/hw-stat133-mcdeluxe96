@@ -1,0 +1,3 @@
+I am providing a clear description of what the homework is about by telling this
+
+I am working on analyzing the shots made by five key NBA players from the Warriors team. In the code file, I write scripts to convert the raw data into a readable one. In the images file ,there are pictures of my output, in the reports, this is where my whole work is ade. I also put all my datafiles into the data file.
