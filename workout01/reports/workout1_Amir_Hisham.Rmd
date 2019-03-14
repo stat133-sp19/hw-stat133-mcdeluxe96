@@ -57,7 +57,7 @@ binded_data <-  rbind(andre,curry,draymond,kevin,klay)
 All great sportsmen have one thing in common. They have all failed at some point in their lives. The same thing can be said about the Warriors players for the 2016 season. We will look at five key players and analyze their shooting styles, and pointers to see how well they did in the 2016 season.
 
 ```{r}
-knitr::include_graphics('../images/gsw-shot-charts.png')
+knitr::include_graphics('workout1_Amir_Hisham_files/gsw-shot-charts.png')
 ```
 
 The figures above lay out every shot made by the five key players. As we see, Klay Thompson and Steph Curry made the most shots, with Kevin Durant, Draymond Green, and Andre Iguodala came out third, forth and fifth players respectively in the number of shots. Knowing this, basketball players have to try harder to make more shots because all great players have that same characteristic. Note that this is for the 2016 season alone. If all the years are combined and analyzed, we would see the entire figures above fully colored with either green or red!
@@ -65,7 +65,7 @@ The figures above lay out every shot made by the five key players. As we see, Kl
 The figure below shows what happens if we dissect further and only look at Steph Curry figure alone.
 
 ```{r}
-knitr::include_graphics('../images/steph-curry-shot-chart.png')
+knitr::include_graphics('workout1_Amir_Hisham_files/steph-curry-shot-chart.png')
 ```
 Based on this figure, we can see clearly where the shots were made, and whether or not he actually made the shot. As you can see, there is no definite x and y coordinates on the diagram where the shots made are completely green or red. We can see however that as he gets closer to the ring, the amount of green dots seem to be higher. However, by looking at the general overview of the diagram, no matter where the shot was made, there is no definite answer as to whether the shot actually passed or not. This reinforces the idea of the law of averages whereby if the player keeps on trying, they are bound to make the shot. Hence, other players should not hesitate to try and see if they could make the shots, even though they know that they might miss it. It's the effort that counts.
 
