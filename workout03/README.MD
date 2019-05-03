@@ -18,3 +18,10 @@ install "cointoss" (without vignettes)
 install "cointoss" (with vignettes)
 > devtools::install_github("gastonstat/cointoss", build_vignettes = TRUE)
 
+### Functions
+* bin_choose()
+– bin_probability()
+– bin_distribution(); and plot.bindis()
+– bin_cumulative(); and plot.bincum()
+– bin_var(); and print.binvar(), summary.binvar(), print.summary.binvar()
+– bin_mean(), bin_variance(), bin_mode(), bin_skewness(), bin_kurtosis()
