@@ -9,12 +9,12 @@ I come up with the idea to illustrate the concept famously used so that everyone
 
 ### Installation
 
-# development version from GitHub:
+> # development version from GitHub:
 > #install.packages("devtools") 
 
-# install "cointoss" (without vignettes)
-devtools::install_github("gastonstat/cointoss")
+> # install "cointoss" (without vignettes)
+>devtools::install_github("gastonstat/cointoss")
 
-# install "cointoss" (with vignettes)
-devtools::install_github("gastonstat/cointoss", build_vignettes = TRUE)
+> # install "cointoss" (with vignettes)
+> devtools::install_github("gastonstat/cointoss", build_vignettes = TRUE)
 
