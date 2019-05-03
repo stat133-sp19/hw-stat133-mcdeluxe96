@@ -22,16 +22,30 @@ install "cointoss" (with vignettes)
 * bin_choose()
   + calculates the number of combinations in which k successes can occur in n trials
 * bin_probability()
+  + finds a probability given values of trials, success, and probability
 * bin_distribution()
+  + finds a probability distribution given values of trials, success, and probability
 * plot.bindis()
+  + plot the result from bin_distribution()
 * bin_cumulative()
+  + create a cumulative probability distribution
 * plot.bincum()
+  + plot the result from bin_cumulative()
 * bin_var()
+  + Creates an object of trials and success
 * print.binvar()
+  + Prints the trials and success of bin_var() 
 * summary.binvar()
+  + summarize the trials and success of bin_var() 
 * print.summary.binvar()
+  + prints the summarization the trials and success of bin_var() 
 * bin_mean()
+  + mean given trials and probability of success
 * bin_variance()
+  + variance given trials and probability of success
 * bin_mode()
+  + mode given trials and probability of success
 * bin_skewness()
+  + skewness given trials and probability of success
 * bin_kurtosis()
+  + kurtosis given trials and probability of success
