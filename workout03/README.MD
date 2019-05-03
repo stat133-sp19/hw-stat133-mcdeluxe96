@@ -4,5 +4,17 @@ random variables. This is the theoretical probability model that we use when cal
 probabilities about the number of successes in a fixed number of random trials performed
 under identical conditions (assuming a constant probability of success on each trial).
 
-### Main Functions
+### Motivation
+I come up with the idea to illustrate the concept famously used so that everyone can use it!
+
+### Installation
+
+# development version from GitHub:
+> #install.packages("devtools") 
+
+# install "cointoss" (without vignettes)
+devtools::install_github("gastonstat/cointoss")
+
+# install "cointoss" (with vignettes)
+devtools::install_github("gastonstat/cointoss", build_vignettes = TRUE)
 
