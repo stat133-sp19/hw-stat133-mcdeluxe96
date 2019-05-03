@@ -20,6 +20,7 @@ install "cointoss" (with vignettes)
 
 ### Functions
 * bin_choose()
+  + calculates the number of combinations in which k successes can occur in n trials
 * bin_probability()
 * bin_distribution()
 * plot.bindis()
